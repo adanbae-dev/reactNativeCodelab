@@ -8,4 +8,4 @@
 ### Lotto
 ### ToDoList
 
-[강의자료]('https://github.com/GrotesQ/Codelab-React-Native-3rd')
+[강의자료](https://github.com/GrotesQ/Codelab-React-Native-3rd)
